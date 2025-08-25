@@ -29,6 +29,7 @@ A React application that integrates with AWS Bedrock API to chat with Claude 4.0
    VITE_AWS_REGION=us-east-1
    VITE_AWS_ACCESS_KEY_ID=your_access_key_here
    VITE_AWS_SECRET_ACCESS_KEY=your_secret_key_here
+   VITE_AWS_BEDROCK_MODEL_ID=MODEL here
    ```
 
 3. **AWS IAM Permissions:**
