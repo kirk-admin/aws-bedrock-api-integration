@@ -95,6 +95,9 @@ src/
 - **API Errors**: Check that your IAM user has the correct Bedrock permissions
 - **Region Issues**: Verify the AWS region supports Bedrock service
 
-## License
+## Preview
+
+<img width="918" height="1321" alt="image" src="https://github.com/user-attachments/assets/74c97211-fbbc-417a-a65a-054a12e5c858" />
+
 
 MIT
